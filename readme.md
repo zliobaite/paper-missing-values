@@ -1,6 +1,7 @@
 Data and code in this folder is to support the article:
 
 **Zliobaite, I., Hollmen, J. and Junninen, H. (2014). Regression models tolerant to massively missing data: a case study in solar radiation nowcasting. Atmospheric Measurement Techniques 7, 4387-4399.**
+http://www.atmos-meas-tech.net/7/4387/2014/amt-7-4387-2014.html
 
 The code is in MATLAB. 
 
